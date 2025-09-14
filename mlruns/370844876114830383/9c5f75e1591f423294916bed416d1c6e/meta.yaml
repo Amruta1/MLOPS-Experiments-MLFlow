@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MY_LEARNINGS/2-Journey_structurized/8.MlOps/MLOPS-Experiments-MLFlow/mlruns/370844876114830383/9c5f75e1591f423294916bed416d1c6e/artifacts
+end_time: 1757833835697
+entry_point_name: ''
+experiment_id: '370844876114830383'
+lifecycle_stage: active
+run_id: 9c5f75e1591f423294916bed416d1c6e
+run_name: rebellious-bee-282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757833835449
+status: 3
+tags: []
+user_id: mr

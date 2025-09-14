@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MY_LEARNINGS/2-Journey_structurized/8.MlOps/MLOPS-Experiments-MLFlow/mlruns/370844876114830383/d729ff1f09374960a150a31566c8e058/artifacts
+end_time: 1757833835162
+entry_point_name: ''
+experiment_id: '370844876114830383'
+lifecycle_stage: active
+run_id: d729ff1f09374960a150a31566c8e058
+run_name: calm-fawn-498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757833834940
+status: 3
+tags: []
+user_id: mr

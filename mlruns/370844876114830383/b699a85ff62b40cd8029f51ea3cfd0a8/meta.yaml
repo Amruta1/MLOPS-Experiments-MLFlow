@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MY_LEARNINGS/2-Journey_structurized/8.MlOps/MLOPS-Experiments-MLFlow/mlruns/370844876114830383/b699a85ff62b40cd8029f51ea3cfd0a8/artifacts
+end_time: 1757833834926
+entry_point_name: ''
+experiment_id: '370844876114830383'
+lifecycle_stage: active
+run_id: b699a85ff62b40cd8029f51ea3cfd0a8
+run_name: bustling-gnat-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757833834740
+status: 3
+tags: []
+user_id: mr

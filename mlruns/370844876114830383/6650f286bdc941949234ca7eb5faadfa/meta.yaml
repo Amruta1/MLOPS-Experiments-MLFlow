@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MY_LEARNINGS/2-Journey_structurized/8.MlOps/MLOPS-Experiments-MLFlow/mlruns/370844876114830383/6650f286bdc941949234ca7eb5faadfa/artifacts
+end_time: 1757833844934
+entry_point_name: ''
+experiment_id: '370844876114830383'
+lifecycle_stage: active
+run_id: 6650f286bdc941949234ca7eb5faadfa
+run_name: luminous-mole-848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757833844760
+status: 3
+tags: []
+user_id: mr

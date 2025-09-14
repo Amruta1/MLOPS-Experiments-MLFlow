@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MY_LEARNINGS/2-Journey_structurized/8.MlOps/MLOPS-Experiments-MLFlow/mlruns/370844876114830383/df2d47a561194c17912a60458abb69e8/artifacts
+end_time: 1757833836978
+entry_point_name: ''
+experiment_id: '370844876114830383'
+lifecycle_stage: active
+run_id: df2d47a561194c17912a60458abb69e8
+run_name: big-duck-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757833836115
+status: 3
+tags: []
+user_id: mr

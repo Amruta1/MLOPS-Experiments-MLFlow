@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MY_LEARNINGS/2-Journey_structurized/8.MlOps/MLOPS-Experiments-MLFlow/mlruns/370844876114830383/015775530cbc4e5e8a7afc8f5dedbb64/artifacts
+end_time: 1757833843889
+entry_point_name: ''
+experiment_id: '370844876114830383'
+lifecycle_stage: active
+run_id: 015775530cbc4e5e8a7afc8f5dedbb64
+run_name: calm-skunk-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757833837657
+status: 3
+tags: []
+user_id: mr

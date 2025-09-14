@@ -22,3 +22,7 @@ mlflow.autolog()
 
 
 how to do hyperparameters tuning using mlflow
+
+
+
+in mlflow you can also register the model

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MY_LEARNINGS/2-Journey_structurized/8.MlOps/MLOPS-Experiments-MLFlow/mlruns/370844876114830383/b1000233f68448ec89f09d7ae9152ac6/artifacts
+end_time: 1757833837594
+entry_point_name: ''
+experiment_id: '370844876114830383'
+lifecycle_stage: active
+run_id: b1000233f68448ec89f09d7ae9152ac6
+run_name: bright-chimp-90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757833837049
+status: 3
+tags: []
+user_id: mr

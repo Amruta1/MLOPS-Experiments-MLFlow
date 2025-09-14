@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MY_LEARNINGS/2-Journey_structurized/8.MlOps/MLOPS-Experiments-MLFlow/mlruns/370844876114830383/74d8572419984946afc5ae41a1f9c82d/artifacts
+end_time: 1757833891214
+entry_point_name: ''
+experiment_id: '370844876114830383'
+lifecycle_stage: active
+run_id: 74d8572419984946afc5ae41a1f9c82d
+run_name: fun-mare-287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757833812803
+status: 3
+tags: []
+user_id: mr

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MY_LEARNINGS/2-Journey_structurized/8.MlOps/MLOPS-Experiments-MLFlow/mlruns/370844876114830383/63cd3720d8824788992f8cbff8f52de7/artifacts
+end_time: 1757833845270
+entry_point_name: ''
+experiment_id: '370844876114830383'
+lifecycle_stage: active
+run_id: 63cd3720d8824788992f8cbff8f52de7
+run_name: delicate-bat-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757833844975
+status: 3
+tags: []
+user_id: mr
