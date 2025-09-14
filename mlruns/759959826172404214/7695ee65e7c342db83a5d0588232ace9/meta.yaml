@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/759959826172404214/7695ee65e7c342db83a5d0588232ace9/artifacts
+end_time: 1757826417025
+entry_point_name: ''
+experiment_id: '759959826172404214'
+lifecycle_stage: active
+run_id: 7695ee65e7c342db83a5d0588232ace9
+run_name: rare-grouse-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757826402412
+status: 3
+tags: []
+user_id: mr

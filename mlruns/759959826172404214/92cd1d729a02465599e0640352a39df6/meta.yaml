@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/759959826172404214/92cd1d729a02465599e0640352a39df6/artifacts
+end_time: 1757832562250
+entry_point_name: ''
+experiment_id: '759959826172404214'
+lifecycle_stage: active
+run_id: 92cd1d729a02465599e0640352a39df6
+run_name: fortunate-vole-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757832546256
+status: 4
+tags: []
+user_id: mr

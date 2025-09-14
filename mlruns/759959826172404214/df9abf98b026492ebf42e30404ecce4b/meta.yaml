@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/759959826172404214/df9abf98b026492ebf42e30404ecce4b/artifacts
+end_time: 1757832647916
+entry_point_name: ''
+experiment_id: '759959826172404214'
+lifecycle_stage: active
+run_id: df9abf98b026492ebf42e30404ecce4b
+run_name: carefree-bear-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757832627846
+status: 3
+tags: []
+user_id: mr

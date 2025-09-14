@@ -1,0 +1,24 @@
+1. pip install mlflow
+2. mlflow ui-- it will cretae one link
+
+3. cretae src
+4. file1.py
+5. load_wine() is inbuilt dataset in sklearn
+in new terminal python file.py
+try for different hyperparameters
+
+pip install dagshub
+
+file2.py
+
+6.loin to dagshub
+7. connect github
+8. remote, experiment
+
+
+for autolog add
+mlflow.autolog()
+
+
+
+how to do hyperparameters tuning using mlflow
